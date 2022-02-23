@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the general councel, and officers of the army, and to every member in particular Friends, I am moved of the Lord to write unto you, in the name and power of our Lord Jesus Christ; ...</title>
+            <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41065</idno>
+            <idno type="STC">Wing F638C</idno>
+            <idno type="STC">ESTC R218282</idno>
+            <idno type="EEBO-CITATION">99829891</idno>
+            <idno type="PROQUEST">99829891</idno>
+            <idno type="VID">34338</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34338)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2029:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the general councel, and officers of the army, and to every member in particular Friends, I am moved of the Lord to write unto you, in the name and power of our Lord Jesus Christ; ...</title>
+                  <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons, at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; title taken from caption title and first lines of text.</note>
+                  <note>Signed and dated at end: Written the 13. of the eighth moneth, in the yeare accounted, 1659. .. Margret Fell.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Quskers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34338:1" rendition="simple:additions"/>
+            <head>TO THE General Councel, AND OFFICERS OF THE ARMY, And to every <hi>MEMBER</hi> in particular.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>I am moved of the Lord to write unto you, in the Name and power of our Lord Jeſus Chriſt, and in tender love and dear bowels of affection; and to the Meaſure of God in you all I deſire to be made manifeſt and known. And I can truly ſay, my love is dear to you, and I know that my heavenly Father hath brought you now unto the place of Judicature, that ye may do Juſtice, where many others before you have been turned and over<g ref="char:EOLhyphen"/>turned, and that ſhortly and ſuddenly, of late years; And now are ye come into their place, to be tried, and weighed in the ballance of true juſtice and judgement. And oh! that your eyes were open to ſee what the moſt high is doing in this his day of power, in this his day of grace, that ſo ye might not be blinded as others before you have been, who would not ſee the Lords hand, but acted as men cor<g ref="char:EOLhyphen"/>rupt, and ſo came to be thrown down by the power which they would not ſee. You have been the Inſtruments of warre, and the Battle-axe
+<pb n="2" facs="tcp:34338:2"/>in the hand of the Lord, which hath even beaten the mountains to duſt; and now are ye come into their place which they were in with whom ye warred. And now are ye come into the place, where ye may exe<g ref="char:EOLhyphen"/>cute that which ye formerly deſired after, and ſuffered for, and laboured for, and warred for. And now that the Lord hath put it in<g ref="char:EOLhyphen"/>to your hands, even to try your faithfulneſs, and your integrity; Not that he hath any need of you, more then them that went before you, (as ye are men natural) but as you are righteous men, and guided by the juſt and righteous principle of God in you, ſo you may be ſervice<g ref="char:EOLhyphen"/>able unto the Lord God, for the accompliſhing, and for the perform<g ref="char:EOLhyphen"/>ing of the intents of his heart, which he hath determined, and decreed to bring to paſs in theſe latter dayes, againſt which no weapon formed ſhall proſper, nor no power nor Arm can withſtand; For the Almigh<g ref="char:EOLhyphen"/>ty will ſhew forth his righteouſneſs as the morning, and his glory as the noon-day. Therefore as ye love your ſoules, and your eternal peace, and as ye deſire to be preſerved by him, and kept, and uphol<g ref="char:EOLhyphen"/>den by the right hand of power, beware that ye turn not your hand againſt his work, that he is working in the earth in this his day. The powers of darkneſs hath long kept him out of his throne, and he hath holden his peace, &amp; long been ſtill; but now is he crying even as a tra<g ref="char:EOLhyphen"/>velling woman; &amp; now will he ariſe, and deſtroy at once all thoſe that will not that he ſhould reign, whoſe right it is, who is the wonderfull Counſellour, the Prince of Peace, of whoſe Dominion and Government there ſhall be no end. And as you deſire that he ſhould govern and Rule all Nations with his rod of Iron, now quit your ſelves like men, and that liberty for which ye have ventured your blood and lives, let it not now fall in the ſtreets of great <hi>Babylon,</hi> when it is put into your hands freely to miniſter to the Nations. And let Chriſt Jeſus (who is the ſupreme Judge in the conſcience) have his throne eſtabliſhed, which is for ever and ever. And let the everlaſting Goſpel of our Lord Jeſus Chriſt have its free paſsage, (which no man need be aſhamed of) for it is the power of God unto ſalvation. And dear friends, as ye deſire to be owned of the living God, and to be preſer<g ref="char:EOLhyphen"/>ved and upholden by his power and ſtrength, Come into ſeriouſ<g ref="char:EOLhyphen"/>neſs and ſincerity of heart, and let the juſt meaſure of God in you all lead you and guide you, and let his fear poſseſs your hearts, for ye have ſeen what hath become of thoſe that were before you. And truly Gods juſt hand was ſeen which would come upon them be<g ref="char:EOLhyphen"/>fore it came. And now that ye may eſcape the ſcourge that hath
+<pb n="3" facs="tcp:34338:2"/>overturned them, is the deſire of my ſoule. And as God hath honou<g ref="char:EOLhyphen"/>red you, and made you Inſtruments for his ſervice, ſo that ye now might be guided with that which may ſtand in his preſence. For the Lord giveth wiſdom, out of his mouth cometh knowledge and underſtanding, he layeth up ſound wiſdom for the righteous, he is as a buckler to them that walk uprightly, he keepeth the paths of judge<g ref="char:EOLhyphen"/>ment, and preſerveth the way of his Saints, that they underſtand righteouſneſs, judgement and equity, ye every good path. And truly friends, it is the uprightneſs of your hearts that God looks at, and that will only be accepted of him; And it hath been the rotten deceitfulneſs of the hearts of thoſe that went before you, that was their overthrow. And ſo juſt as the intents of your hearts is for the advancing, and exalting of the horn of his Anointed, ſo will ye proſper in this work; For the decree of the Lord concerning this thing is ſealed which ſhall never be revoked. Thus ſaith the Lord, the Re<g ref="char:EOLhyphen"/>deemer of Iſrael his holy One; to him whom man deſpiſeth, to him whom Nations abhorreth, to a ſervant o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rulers; Kings ſhall ſee and ariſe, Princes alſo ſhall worſhip becauſe of the Lord that is faithful, and the holy One of Iſrael. This is he that muſt rule the Nations; whoſe Scepter is a righteous Scepter; and bleſſed will ye be if ye advance and exalt him whom God is exalting in this his day; The Spirit of the Lord doth reſt upon him, the Spirit of wiſdom and underſtanding, the ſpirit of Counſell and of Might, the ſpirit of knowledge, and of the feare of the Lord; with righteouſneſs doth he judge the poor, and reprove with equity for the meek of the earth; and he ſhall ſmite the earth with the Rod of his mouth, and with the breath of his lips will he ſlay the wicked, and righteouſneſſe is the girdle of his loynes, and faithfulneſs the girdle of his reins; And this is he (Friends) that is ſpringing out of the ſtemme of <hi>Jeſſe,</hi> and woe unto them that warre againſt him; This is the righteous branch that the Lord is bringing forth, the King that ſhall reign and proſper, whoſe Name is the Lord our Righteouſneſs, which is better then eve<g ref="char:EOLhyphen"/>ry name, to which all Nations ſhall bow, and every tongue con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs him to be Lord. And as ye advance, and <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lt this, ſo will ye proſper, and ſo will ye be preſerved in the midſt of your enemies. And though we be but little and ſmall in your eyes, a people deſpi<g ref="char:EOLhyphen"/>ſed, and every where ſpoken againſt, yet it will be good for you, if ye have our prayers; for we know the Rock, and the Corner ſtone, and that which will proſper in his ſight, and we have the teſtimony,
+<pb n="4" facs="tcp:34338:3"/>which will ſtand for ever; And no other foundation can any one lay then that which is already laid; but let every one take heed how he buildeth thereupon; for every ones work muſt be tried by the fire, and he whoſe work is burnt will ſuffer loſs; for the day is riſen and appearing that makes every thing manifeſt, of what ſort it is. And truly friends, it muſt be a ſpirituall building that will ſtand in the pre<g ref="char:EOLhyphen"/>ſence of Almighty God; it is not the pot-ſheards of the earth that can ſtrive with him, nor Briars and Thornes that can ſtand before him in Battel (who is a conſuming fire) nor an Image made, though of gold, and ſet up in the imaginations of men, that will ſtand in his ſight; It is the true and living ſubſtance that will be accepted of him; Therefore dear hearts conſider what the Lord is doing, and act not without his Counſell, nor to pleaſe men, leſt ye act contrary to his will. Advance Juſtice, and Righteouſneſs and equity, and you can never do amiſſe. Riches and honour is with me, (ſaith <hi>Solomon</hi>) yea, durable riches and righteouſneſs. I lead in the way of righte<g ref="char:EOLhyphen"/>ouſneſs, in the midſt of the paths of Judgement; this is the Saints path, though fooles cannot erre therein. Here ye will know the key of <hi>David,</hi> of wiſdome and knowledge, which will open unto you the way of life. Truly I am affected with you, and I know if ye execute juſtice and true judgement, the Lord will own you, and give you to tread on the necks of your enemies; But if ye fall flat, and grow cold and dead, and dull, and betray your own principles, (as ſome have done that went before you) then look for the ſame as they have had from an unchangeable God, who is the ſame to day and yeſterday, and the ſame for ever. And you that have ventured life and blood, for conſcience, freedome and liberty, now beware that ye be not limiters, nor lorders over Gods heritage; nor to keep him out of his throne, (as your predeceſſors have done) your fruits will make you manifeſt. And as ye ſow, ſo will ye reap. It is not for any end concerning us, that I write this unto you (the living Record knowes) for we know the ſtrait, and narrow path; and we have trodden the path that leades through ſufferings; tri<g ref="char:EOLhyphen"/>als and afflictions have been our portion (as our Lord, and Ma<g ref="char:EOLhyphen"/>ſter that went before us was made perfect through ſufferings) and therefore it is our joy to follow his ſteps where ever he goes. And it is onely for your good, and that ye might be guided ſo as ye might proſper, For it is the grief of our ſoules to ſee the de<g ref="char:EOLhyphen"/>ſtruction of any; and therefore in tender bowels have we been
+<pb n="5" facs="tcp:34338:3"/>moved to give them many warnings, whoſe day was before you which they caſt behinde their backs: but for the Lord they will ſtand a witneſſe; when the day of their calamity comes, then will they remember what they have done againſt the Lord and againſt his Anointed: So that ye may be preſerved out of the gulfe of deſtruction, and that ye may partake with us of everla<g ref="char:EOLhyphen"/>ſting peace, and reſt, and ſafety, and joy which is for ever. And thoſe that wiſheth well to Sion will proſper, for ſhe is now ari<g ref="char:EOLhyphen"/>ſing, and ſhaking of the duſt off her feet, and putting on her beau<g ref="char:EOLhyphen"/>tifull garments: And the mountain of the Lords houſe is eſtabli<g ref="char:EOLhyphen"/>ſhed a top of the Mountaines, and ſhall be exalted above the hills, and all Nations ſhall flow unto it; For out of Sion is going forth the Law, and the Word of the Lord from Jeruſalem. And who can ſtoppe, or who can ſtay this which God alone worketh and judgeth among the Nations? And ſo we wait to ſee Juſtice and true Judgement executed by you for the Lord, and not for men, or to pleaſe men; For the Law was added becauſe of tranſgreſſion; and ſo when true juſtice, and true judgement rules, then the Law is exe<g ref="char:EOLhyphen"/>cuted upon the Trangreſſor; but who is led by the Spirit of God, againſt ſuch there is no Law. And ſo to the juſt and righteous principle of God in you I commit you to be guided, and then I know (if ye mind it) you will not be time-ſervers, nor men-plea<g ref="char:EOLhyphen"/>ſers, nor fear man whoſe breath is in his noſtrills; but fear the Lord God, who when he hath kill'd the body, can alſo caſt the ſoule into hell; yea, I ſay unto you, fear him; ſo will ye come to know the juſt principle in every one, which will knit and unite your hearts together, in the unity, and there will be your ſtrength in the one ſpirit, which joynes to the Lord, and one to another. This is the Standard that ſtands againſt all the powers of Hell and Death. And truly Friends, it is in this, which keeps out of reſpect of perſons, and out of time-ſerving, and men-pleaſing, that will knit your hearts toge<g ref="char:EOLhyphen"/>ther. And this will keep you out of ſtrife, and contention one with another; when the juſt principle in you all guides and leads, then will righteouſneſſe be exalted. And here will be your very ſtrength, that ye be knit one to another, in that juſt and righteous meaſure of the Spirit of God in you; that ſo ye may not be Judges nor Gover<g ref="char:EOLhyphen"/>nours for men, but for the Lord, and for the advancing of his truth, and the exalting of his Chriſt, which in this his day he is going to eſtabliſh upon his throne; notwithſtanding all gain-ſayers. Though
+<pb n="6" facs="tcp:34338:4"/>
+               <hi>Gog</hi> and <hi>Magog</hi> ſhould gather together, yet the Lord hath anointed his holy One, and his King he hath ſet upon his holy hill of Sion; and all that gather together againſt him, ſhall fall for his ſake. There<g ref="char:EOLhyphen"/>fore in pure love to you, that ye may not be found fighters againſt God, am I moved to give you this warning, and this counſell, which ye ſhall acknowledge to be good, one day; whether ye now hear, or forbear; and that ye may not bear the ſword in vain, (Hitherto ye have not born the ſword in vain) for the Lord hath made you victo<g ref="char:EOLhyphen"/>rious, and given you power over your enemies; and put into your hands what your hearts could deſire, And now, oh that ye would come to execute juſtice, and true judgement would even be your preſervation and your ſtrength. And that ye may be the Rulers that are not a terrour to good works, but to the evill; that the good may not be afraid of your power, but the evill; and that ye may be the Miniſters of God for good, and a revenger to execute wrath upon him that doth evill; and that your Acts and Ordinances may be for the Lords ſake; That the people of God may ſubmit unto you, and may be ſubject unto you; not for wrath, but for conſcience ſake; Foraſmuch as you are ſet, and ſent by the Lord for the puniſhment of evill doers, and for the praiſe of them that do well; For ſo is the will of God, that with well-doing ye may put to ſilence the ig<g ref="char:EOLhyphen"/>norance of the fooliſh. And ſo this is your place, and calling, and now the power and the opportunity is put into your hands to do good; beware that ye do not abuſe the power, nor make light of it, nor ſleight it, nor turn the truth of God into a lye, as thoſe have done that have gone before you; nor turn the ſword againſt the Juſt; and the Righ<g ref="char:EOLhyphen"/>teous as they have done, and cauſed the juſt and the innocent to ſuffer, which God hath pleaded the cauſe of, though they were blind and did not ſee, nor would not hear the warning and the exhorta<g ref="char:EOLhyphen"/>tion that was miniſtred unto them; yet God hath ſaid, they ſhall ſee and be aſhamed. And God will plead the cauſe of his own juſt and innocent Seed, that hath no helper in the earth, which hath long ſuffe<g ref="char:EOLhyphen"/>red under the hard bondage of Egyptian darkneſſe. But he hath ſeen the affliction of his ſeed, and he hath heard the cry of it, and he is come to relieve it. So if ever ye will have the powerfull God to own you, and honour you, Beware of ſtrengthening the hands of the wicked, and the evill doers, and of turning your ſword againſt the innocent; he is the ſame, and he liveth for ever, that hath ſaid, <hi>It were better that a Mill-stone were hanged about his neck, and he caſt into the
+<pb n="7" facs="tcp:34338:4"/>Sea, then to offend one of his little ones.</hi> This word endureth for ever and will be fulfilled every jot and tittle, though men make light of it, and doe not ſee the Weight nor the Depth of it; But when their day of calamity comes, then will they ſee what is due unto that which hath offended this which God ſo highly prizeth. There<g ref="char:EOLhyphen"/>fore as ye love your ſoules, and your eternal peace, beware what ye doe, now ye are in place and Authority; and now ye have power to act for God, if ye keep your hearts upright unto him, he will di<g ref="char:EOLhyphen"/>rect you; And if your faces be towards Sion, he will teach you of his wayes, that ye may walk in his paths, which will be out of the paths of the broad way that leads to deſtruction, which all that went before you, have walked in. And that ye may be preſerved out of the ſnares of the ſowler, which the wicked one layes for thoſe that are in place of Authority (as you are in) is even the deſire of my ſoule. And if your hearts be not corrupt, ye will be preſerved; For out of the heart proceeds evill thoughts; Murder, and Adultery, Thefts, falſe witneſſe and Blaſphemies; theſe are the things which defiles the man. That which cometh out of a man defileth him, not that which entereth into him; Read that neare, and conſider it ſeriouſly; for there is a great weight in thoſe words; So keep to the juſt prin<g ref="char:EOLhyphen"/>ciple of God in you, that which keeps you clean out of advanta<g ref="char:EOLhyphen"/>ges, out of time-ſerving, and men-pleaſing; ſo may ye eſcape the Polutions that they fell into that went before you. And the God of all power give you to ſee and underſtand, that his righte<g ref="char:EOLhyphen"/>ouſneſſe he will exalt in this his day. And oh that ye could be<g ref="char:EOLhyphen"/>lieve in your hearts, and confeſſe with your mouthes that Jeſus Chriſt is raiſed from the dead, then ſhould ye be ſaved from the tranſgreſſing againſt the juſt; For with the heart man believeth unto righteouſneſſe, and with the mouth confeſſion is made unto ſalvation. Whoſoever believeth that Jeſus is the Chriſt is borne of God, and every one that loveth him that <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>at<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, loveth him that is begotten of him; marke this, and read this neare: So if ye love God which hath begot, love that which is begotten of him in you, and this will keep you out of tranſgreſſion, and out of perſecution, and out of ſinne and evill, and teach you to be a terrour to the evill doers, (not a terrour to the good) but a praiſe to them that doth well. And to this Word, and Power Eternall and Immortall, I commit, and command you, which is able to ſave your ſoules; who in his time he ſhall
+<pb n="8" facs="tcp:34338:5"/>ſhew, who is the bleſſed and onely Potentate, the King of Kings and Lord of Lords, who onely hath immortality dwel<g ref="char:EOLhyphen"/>ling in the light which no man can approach, who no man hath ſeen, nor can ſee; to whom be Honour and Power ever<g ref="char:EOLhyphen"/>laſting. <hi>AMEN.</hi> See 1 <hi>Timothy</hi> 6.15, 16.</p>
+            <closer>
+               <dateline>Written <date>the 13. of the eighth Moneth, in the yeare accounted, 1659.</date>
+               </dateline>
+               <signed>From a true lover of true Peace and Righteouſneſs, which is coming to rule; for he hath taken upon him his great power, and there<g ref="char:EOLhyphen"/>fore the Nations are angry. <hi>MARGRET FELL.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>Thomas Simmons,</hi> at the Bull and Mouth near Alderſgate, 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
